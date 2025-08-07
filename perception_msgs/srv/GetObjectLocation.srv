@@ -1,0 +1,6 @@
+#request
+
+---
+#response
+bool result
+geometry_msgs/Pose object_pose 
